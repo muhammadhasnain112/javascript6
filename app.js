@@ -14,4 +14,4 @@ let check3 = String.fromCharCode(random3)
 let check4 = String.fromCharCode(random4)
 
 let checking = check1 + check2 + check3 + check4 + random5 + random6 + random7;
-document.write(`<h1>  ${checking}`)
+document.write(`<h1>  Random A Generate Password <br>  <br> ${checking}`)
